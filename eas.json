@@ -1,0 +1,13 @@
+{
+  "build": {
+    "production": {
+      "android": {
+        "gradleCommand": ":app:assembleRelease"
+      },
+      "distribution": "store"
+    }
+  },
+  "cli": {
+    "version": ">= 3.13.1"
+  }
+}
