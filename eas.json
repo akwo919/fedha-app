@@ -1,0 +1,14 @@
+{
+  "build": {
+    "production": {
+      "android": {
+        "buildType": "app-bundle"
+      }
+    },
+    "development": {
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  }
+}
